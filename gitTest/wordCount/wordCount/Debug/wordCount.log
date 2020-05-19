@@ -1,0 +1,3 @@
+﻿  wordCount.cpp
+D:\newgit\gitTest\wordCount\wordCount\wordCount.cpp(10,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  wordCount.vcxproj -> D:\newgit\gitTest\wordCount\Debug\wordCount.exe
